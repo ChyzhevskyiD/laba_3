@@ -1,0 +1,14 @@
+C:\Users\Dima\source\repos\laba_3333\laba_3333\bin\Debug\netcoreapp3.1\laba_3333.exe
+C:\Users\Dima\source\repos\laba_3333\laba_3333\bin\Debug\netcoreapp3.1\laba_3333.deps.json
+C:\Users\Dima\source\repos\laba_3333\laba_3333\bin\Debug\netcoreapp3.1\laba_3333.runtimeconfig.json
+C:\Users\Dima\source\repos\laba_3333\laba_3333\bin\Debug\netcoreapp3.1\laba_3333.runtimeconfig.dev.json
+C:\Users\Dima\source\repos\laba_3333\laba_3333\bin\Debug\netcoreapp3.1\laba_3333.dll
+C:\Users\Dima\source\repos\laba_3333\laba_3333\bin\Debug\netcoreapp3.1\laba_3333.pdb
+C:\Users\Dima\source\repos\laba_3333\laba_3333\obj\Debug\netcoreapp3.1\laba_3333.csproj.AssemblyReference.cache
+C:\Users\Dima\source\repos\laba_3333\laba_3333\obj\Debug\netcoreapp3.1\laba_3333.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\source\repos\laba_3333\laba_3333\obj\Debug\netcoreapp3.1\laba_3333.AssemblyInfoInputs.cache
+C:\Users\Dima\source\repos\laba_3333\laba_3333\obj\Debug\netcoreapp3.1\laba_3333.AssemblyInfo.cs
+C:\Users\Dima\source\repos\laba_3333\laba_3333\obj\Debug\netcoreapp3.1\laba_3333.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\laba_3333\laba_3333\obj\Debug\netcoreapp3.1\laba_3333.dll
+C:\Users\Dima\source\repos\laba_3333\laba_3333\obj\Debug\netcoreapp3.1\laba_3333.pdb
+C:\Users\Dima\source\repos\laba_3333\laba_3333\obj\Debug\netcoreapp3.1\laba_3333.genruntimeconfig.cache
