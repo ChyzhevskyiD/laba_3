@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Lab_oop3_2
+namespace Lab_3333(2)
 {
     class Program
     {
