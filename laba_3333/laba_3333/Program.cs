@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Laba_3
+namespace Laba_3333
 {
     class Program
     {
